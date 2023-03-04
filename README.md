@@ -13,7 +13,7 @@ How I did it:
 ###
 The whole thing looks very beautiful. SASS has greatly facilitated my work on responsiveness and arrangement of text and images. And thanks to Bootstrap, I easily managed the grid in the HTML code :neckbeard:
 ###
-Check out what happens when you click on the links on each page :stuck_out_tongue_winking_eye:
+>Check out what happens when you click on the links on each page :stuck_out_tongue_winking_eye:
 
 ## Technologies used
 - HTML
